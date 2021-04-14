@@ -1,0 +1,3 @@
+-Implement Picnh
+-Fix Noisy I/
+-Convert to OOP
